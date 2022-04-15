@@ -18,7 +18,7 @@ export default function Home({ products }) {
     return (
         <div className="bg-gray-100 ">
             <Head>
-                <title>Africa Tonic </title>
+                <title>Africa Tonic</title>
             </Head>
 
             {/* Header */}
