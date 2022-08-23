@@ -25,6 +25,8 @@ Run commands
 
 ### If you see the window below then you are set to build AMAZON 2.0!
 
+![alt text](https://muchirialex.me/uploads/amazon.jpg)
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
